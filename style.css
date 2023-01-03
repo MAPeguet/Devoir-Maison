@@ -3,11 +3,10 @@
     display: block;
     margin: 0 auto;
     width: 300px;
-    border-radius: 10px;
+    border-radius: 100% / 100% ;
 }
 
 .card-img {
     width: 100%;
     border-radius: 100% / 100% ;
-    left: 10%;
 }
