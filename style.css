@@ -1,3 +1,14 @@
+.main-title {
+    text-align: center;
+}
+
+
+
+
+.list-container {
+    text-align: center;
+}
+
 .card {
     box-shadow: 0px 0px 5px rgb(0 0 0 / 40%);
     display: block;
