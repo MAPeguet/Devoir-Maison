@@ -1,13 +1,18 @@
 Voici mon DM :
 
-Questions de cours :
+Questions de cours :<br>
+<br>
 - À quoi sert un terminal ? <br>
   Un terminal est un point d'accès entre un utilisateur et un ordinateur ou un serveur ou un réseau d'ordinateur. Ce point d'accès permet à l'utilisateur d'intéragir avec un ordinateur/ un serveur/ un serveur.
   
 - Donnez 3 exemples d'éléments de mise en page de fichier README.md et décrivez leur utilité. <br>
-<font color=#e12120>C'est normal de trouver des '-' entre chaque élément balisé. C'est tout simplement pour ne pas rendre le balisage actif et ainsi les rendre visibles dans le README</font> Merci de ne pas en tenir rigueur, s'il vous plaît. <br>
+<br>
+(C'est normal de trouver des "-" entre chaque élément balisé. C'est tout simplement pour ne pas rendre le balisage actif et ainsi les rendre visibles dans le README</font> Merci de ne pas en tenir rigueur, s'il vous plaît.) <br>
+<br>
   <-font color=#e12120-> [...] <-/font-> permet de modifier les caractèristiques du texte se trouvant dans cette balise. Par exemple, l'information "color=#e12120", associé à la balise <-font->, permet de changer la couleur du texte se trouvant dans la balise ; précisément en rouge AKIRA.<br>
+  <br>
   <-li-> [...] <-/i-> est une balise indiquant que le texte incéré dedans correspond à un élément devant faire parti d'une liste.<br>
+  <br>
   <-a-> est une balise permettant l'incersion d'un hyperlien dans le contenu visible de la page html. Il est présenté de la manière suivante : <-a href="https://github.com/"->GitHub<-/a-> . Dans cette balise, on retrouve la balise <-a-> indiquant qu'un hyperlien va être incéré. La caractèristique "href="https://github.com/"" permet d'incérer l'URL de destination, ici l'URL du site GitHub.com). Enfin le texte se trouvant dans la balise <-a-> (ici "GitHub") correspond à un lien cliquable, dirigeant vers l'URL inscrit dans la caractèristique "href" de ladite balise. 
     
 - À quoi correspondent les unités suivantes : PX, VW et EM ? Donnez le plus de détails possible.<br>
